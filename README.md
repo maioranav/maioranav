@@ -1,4 +1,6 @@
-# 💫 About Me:
+# Vincenzo Maiorana
+
+## 💫 About Me:
 🔭 Currently Studyin at Epicode as FullStack Web Developer<br>💬 Ask me about JavaScript, Vanilla PHP, SQL
 
 
