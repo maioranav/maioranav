@@ -1,7 +1,7 @@
 # 💫  Welcome on Vincenzo Maiorana's GitHub Profile!
 
 ## About Me:
-🔭 Currently Studyin at Epicode as FullStack Web Developer<br>💬 Ask me about JavaScript, Vanilla PHP, SQL
+🔭 Currently Studyin at Epicode as FullStack Web Developer<br>💬 Ask me about JavaScript, Vanilla PHP, SQL, React.js, SpringBoot, TypeScript
 
 
 ## 🌐 Socials:
