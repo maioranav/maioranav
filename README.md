@@ -11,7 +11,7 @@
 
 - 📝 I regularly post articles on [https://www.linkedin.com/in/vincenzomaiorana/](https://www.linkedin.com/in/vincenzomaiorana/)
 
-- 💬 Ask me about **React.js, SpringBoot, TypeScript, JavaScript, PHP, SQL**
+- 💬 Ask me about **React.js, Next.js, SpringBoot, NodeJS, TypeScript, JavaScript, PHP, SQL**
 
 - 📫 How to reach me **info@vincenzomaiorana.it**
 
