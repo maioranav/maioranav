@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maioranav&label=Profile%20views&color=0e75b6&style=flat" alt="maioranav" /> </p>
 
-- 🔭 I’m currently working at **IntelliSync**
+- 🔭 I’m currently working at **Lascaux**
 
 - 🌱 I’m currently learning **Angular, AWS**
 
